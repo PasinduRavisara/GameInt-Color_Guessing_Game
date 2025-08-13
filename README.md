@@ -25,7 +25,7 @@ The **GameInt** is a simple Python console application where the player guesses 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/PasinduRavisara/GameInt--Color_Guessing_Game.git
-   cd GameInt--Color_Guessing_Game
+   git clone https://github.com/PasinduRavisara/GameInt-Color_Guessing_Game.git
+   cd GameInt-Color_Guessing_Game
 2. Run the Application
     - python 20221033.py
